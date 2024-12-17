@@ -5,6 +5,11 @@ using Telegram.Bot;
 using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 
+/// <summary>
+/// Bu proje daha da geliştirilebilir. 
+/// Temel olarak telegram üstünde bu şekilde mesaj atılabiliyor.
+/// Telegramın kendi geliştirdiği nuget paketini kullanmak daha uygun olabilir
+/// </summary>
 class Program
 {
     private static readonly string BotToken = "7669818545:AAGBghPPcpAnkO-WmfHw8mwbOH_Zh3E9lxU";
